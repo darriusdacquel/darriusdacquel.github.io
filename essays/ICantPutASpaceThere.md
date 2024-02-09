@@ -10,7 +10,9 @@ labels:
   - Coding Standards
 ---
 
-<img >
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/6b02fc5b24efeb3abfe1b2591de2531952a8d0bd.jpg" >
 
 ## Introduction
 In the realm of software engineering if you even mention “coding standards” you will almost get one of two answers. Those being that it's pointless because as long as it runs and has comments you’ll be fine, to the diehard fans that truly support the idea of a universal coding format. I feel like I fall somewhere in the middle, but slightly leaning to the side of coding standards because of the obvious reasons, that being more seamless teamwork and a set format that everyone can conform to, but I also understand why people might not agree with that.
