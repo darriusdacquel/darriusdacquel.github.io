@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "This UI is going to make this easier, right?"
+title: "Bootstrap is going to make this easier, right?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
