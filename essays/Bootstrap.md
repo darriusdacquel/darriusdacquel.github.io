@@ -13,7 +13,7 @@ labels:
 
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/20200611181847470-1.gif" >
+     src="../img/1684519137492.jpg" >
 
 <img width="200px" 
      class="rounded float-start pe-4" 
