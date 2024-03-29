@@ -13,11 +13,15 @@ labels:
 summary: "This group project involves creating a basic Hotel Management System where users can perform various operations related to room management, customer check-in and check-out, and generate guest summary reports."
 ---
 
-<div style="float: left; margin: 10px;">
-  <img class="img-fluid" src="../img/Hotel.png" alt="Hotel Management System" width="200" style="margin-right: 20px; margin-bottom: 10px;">
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <img class="img-fluid" src="../img/Hotel.png" alt="Hotel Management System">
+    </div>
+  </div>
 </div>
 
-<p>The ICS 212 (Program Structure) course in Spring 2023 culminated in a challenging yet rewarding group project where we created a Hotel Management System using C++. This project was my first exposure to collaborative software development and significantly advanced my understanding of object-oriented programming.
+The ICS 212 (Program Structure) course in Spring 2023 culminated in a challenging yet rewarding group project where we created a Hotel Management System using C++. This project was my first exposure to collaborative software development and significantly advanced my understanding of object-oriented programming.
 
 In our group, my extroverted nature allowed me to naturally step into a leadership role. With a friendly and inclusive approach, I steered our team dynamics to ensure that everyone's ideas were heard and valued. This role was pivotal when we encountered a codebase overhaul by one team member. I led a constructive conversation that allowed us to integrate the useful parts of the new code, thus maintaining team morale and project integrity.
 
@@ -33,4 +37,3 @@ Check Out Room Function: Developing the checkout system that calculates the tota
 Each of these components was developed with a focus on clean, readable, and maintainable code. I also ensured that variable names and function signatures were consistent across our codebase, facilitating easier integration and collaborative work.
 
 Through this group project, I deepened my technical expertise and solidified my foundational programming skills. I learned the crucial role that clear communication and leadership play in the success of collaborative tech initiatives. The project was a true reflection of my ability to blend technical prowess with social skills to foster a productive team environment and deliver a robust, user-friendly software product.
-</p>
