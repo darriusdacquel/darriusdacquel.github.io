@@ -13,13 +13,9 @@ labels:
 summary: "This group project involves creating a basic Hotel Management System where users can perform various operations related to room management, customer check-in and check-out, and generate guest summary reports."
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-4">
-      <img class="img-fluid" src="../img/Hotel.png" alt="Hotel Management System">
-    </div>
-  </div>
-</div>
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/Hotel.png" alt="Hotel Management System">
 
 The ICS 212 (Program Structure) course in Spring 2023 culminated in a challenging yet rewarding group project where we created a Hotel Management System using C++. This project was my first exposure to collaborative software development and significantly advanced my understanding of object-oriented programming.
 
