@@ -13,7 +13,7 @@ labels:
 summary: "This group project involves creating a basic Hotel Management System where users can perform various operations related to room management, customer check-in and check-out, and generate guest summary reports."
 ---
 
-<img width="400px" 
+<img width="300px" 
      class="rounded float-start pe-4" 
      src="../img/Hotel.png" alt="Hotel Management System">
 
