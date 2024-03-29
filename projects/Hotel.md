@@ -13,7 +13,7 @@ labels:
 summary: "This group project involves creating a basic Hotel Management System where users can perform various operations related to room management, customer check-in and check-out, and generate guest summary reports."
 ---
 
-<img width="250px" 
+<img width="300px" 
      class="rounded float-start pe-4" 
      src="../img/Hotel.png" alt="Hotel Management System">
 
@@ -24,7 +24,9 @@ In our group, my extroverted nature allowed me to naturally step into a leadersh
 My primary responsibilities were in the backend development of our system, focusing on the 'Customer' class, the 'Search Room' function, and the 'Check Out Room' function. My work involved:
 Customer Class: Crafting a robust structure to manage customer data with getter and setter methods for encapsulation. Here's a look at part of the class I developed:
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+<div style="margin: 20px;">
+  {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+</div>
  
 Source: <a href="https://github.com/darriusdacquel/InClassFinalProject-ProgramStructure/blob/main/hotel.cpp">InClassFinalProject-ProgramStructure/hotel.cpp</a>
 
