@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/HotelSqaure.png
+image: img/HotelSqaure.png
 title: "Hotel Management System"
 date: 2023
 published: true
@@ -14,9 +14,9 @@ summary: "This group project involves creating a basic Hotel Management System w
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/Hotel.png" alt="Hotel Management System">
-  <img width="400px" src="../img/Hotel.png" alt="Hotel Management System">
-  <img width="400px" src="../img/Hotel.png" alt="Hotel Management System">
+  <img width="400px" src="../img/Hotel1.png" alt="Hotel Management System">
+  <img width="400px" src="../img/Hotel2.png" alt="Hotel Management System">
+  <img width="400px" src="../img/hotel3.png" alt="Hotel Management System">
 </div>
 
 The ICS 212 (Program Structure) course in Spring 2023 culminated in a challenging yet rewarding group project where we created a Hotel Management System using C++. This project was my first exposure to collaborative software development and significantly advanced my understanding of object-oriented programming.
