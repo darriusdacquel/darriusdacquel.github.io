@@ -12,7 +12,9 @@ labels:
 summary: "This assignment is a collaborative endeavor focusing on the distribution and circulation of resources and people among a network of interconnected islands that my group created in Algorithims class."
 ---
 
-<img class="img-fluid" src="../img/Poly.gif">
+<div style="text-align: center;">
+    <img class="img-fluid" src="../img/Poly.gif">
+</div>
 
 Project Overview:
 The assignment tasked participants with conceptualizing and describing efficient methodologies for resource sharing and populace mobilization, integrating specific algorithms to optimize these processes under various constraints.
@@ -31,4 +33,4 @@ Jennie (Problem #4): Addressed the optimization of tourist experiences across va
 Project Impact:
 This project not only contributed to my understanding of algorithmic solutions in a geographically distributed context but also enhanced my competencies in remote collaboration, a skill increasingly vital in today's globalized and digitally connected world. The experience of working remotely, while initially challenging, ultimately proved to be enriching, offering lessons in resilience, communication, and virtual teamwork that are invaluable in the modern professional landscape.
  
-Source: <a href="https://docs.google.com/document/d/1b dCteYYMJKE2vIWruI7PH97UcfcMyS3XB_EwtmqUjk/edit#heading=h.aixeg2abjke6">
+Source: <a href="https://docs.google.com/document/d/1b dCteYYMJKE2vIWruI7PH97UcfcMyS3XB_EwtmqUjk/edit#heading=h.aixeg2abjke6">Navigation of Islands</a>
