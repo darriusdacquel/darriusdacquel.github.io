@@ -13,7 +13,7 @@ summary: "This assignment is a collaborative endeavor focusing on the distributi
 ---
 
 <div style="text-align: center;">
-    <img class="img-fluid" src="../img/Poly.gif">
+    <img class="img-fluid" src="../img/Poly.gif" style="margin: 20px;">
 </div>
 
 Project Overview:
@@ -33,4 +33,4 @@ Jennie (Problem #4): Addressed the optimization of tourist experiences across va
 Project Impact:
 This project not only contributed to my understanding of algorithmic solutions in a geographically distributed context but also enhanced my competencies in remote collaboration, a skill increasingly vital in today's globalized and digitally connected world. The experience of working remotely, while initially challenging, ultimately proved to be enriching, offering lessons in resilience, communication, and virtual teamwork that are invaluable in the modern professional landscape.
  
-Source: <a href="[https://docs.google.com/document/d/1b dCteYYMJKE2vIWruI7PH97UcfcMyS3XB_EwtmqUjk/edit">Navigation of Islands</a>
+Source: <a href="https://docs.google.com/document/d/1b dCteYYMJKE2vIWruI7PH97UcfcMyS3XB_EwtmqUjk/edit">Navigation of Islands</a>
