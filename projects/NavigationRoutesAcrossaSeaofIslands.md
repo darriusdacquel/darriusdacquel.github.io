@@ -12,7 +12,7 @@ labels:
 summary: "This assignment is a collaborative endeavor focusing on the distribution and circulation of resources and people among a network of interconnected islands that my group created in Algorithims class."
 ---
 
-<img class="img-fluid" src="../img/poly.gif">
+<img class="img-fluid" src="../img/Poly.gif">
 
 Project Overview:
 The assignment tasked participants with conceptualizing and describing efficient methodologies for resource sharing and populace mobilization, integrating specific algorithms to optimize these processes under various constraints.
