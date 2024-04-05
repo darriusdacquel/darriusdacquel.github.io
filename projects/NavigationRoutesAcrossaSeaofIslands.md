@@ -23,7 +23,9 @@ For the first time, I engaged in a collaboration that was entirely conducted onl
 Individual Contributions:
 
 Darrius Dacquel (Problem #1): Developed a modified Dijkstra's algorithm to optimize the dissemination of knowledge by skilled leaders across the islands. The algorithm incorporated factors such as population density, the recency of visits, and specific skill demands, ensuring that the leaders could impact the maximum number of people efficiently.
+
 Hamza (Problem #3): Focused on the logistical challenge of distributing essential resources like 'uala and kalo across islands, utilizing Prim's Algorithm to establish a priority-based distribution strategy considering the limited availability of canoes and the need for efficient back-and-forth resource transport.
+
 Jennie (Problem #4): Addressed the optimization of tourist experiences across various islands, leveraging Dijkstra's algorithm to map out expedited tourism routes that maximize the variety and quantity of experiences within limited timeframes.
 
 Project Impact:
