@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/6b02fc5b24efeb3abfe1b2591de2531952a8d0bd.jpg" >
+     src="../img/67dee5a1d90b8b5d34d72376c362c35e.jpg" >
 
 ## Introduction
 The integration of Artificial Intelligence (AI) into education marks a transformative shift in how knowledge is imparted and skills are acquired, particularly in the field of software engineering. As we delve deeper into the digital age, it becomes almost inevitable—and indeed, somewhat ironic—not to harness the capabilities of advanced technologies such as AI while training the next generation of tech industry professionals. This evolution in educational methodologies is especially pertinent to software engineering, a field inherently intertwined with technological advancement and innovation.
