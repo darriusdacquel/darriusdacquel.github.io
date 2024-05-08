@@ -9,7 +9,7 @@ labels:
   - ChatGPT
 ---
 
-<img width="300px" 
+<img width="350px" 
      class="rounded float-start pe-4" 
      src="../img/67dee5a1d90b8b5d34d72376c362c35e.jpg" >
 
