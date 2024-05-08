@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Coding Side by Side with AI"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-08
+date: 2024-05-07
 published: true
 labels:
   - ChatGPT
