@@ -56,6 +56,8 @@ The incorporation of AI into my software engineering education has significantly
 
 ## Practical Applications:
 
+In my project of developing a 2D pixel game platformer in Unity, ChatGPT has been extremely useful, especially when YouTube tutorials couldn't provide answers to specific, off-script questions. Although ChatGPT's guidance wasn't always 100% accurate, it generally pointed me in the right direction, helping me solve real issues in my game development. This practical application of AI in a real-world project demonstrates how AI tools can assist in overcoming challenges that aren't typically addressed in conventional tutorials and is definitely an example of AI's future use in building anything software related.
+
 ## Challenges and Opportunities:
 
 ## Comparative Analysis:
