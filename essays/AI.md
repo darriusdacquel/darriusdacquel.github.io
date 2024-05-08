@@ -60,8 +60,18 @@ In my project of developing a 2D pixel game platformer in Unity, ChatGPT has bee
 
 ## Challenges and Opportunities:
 
+In my experience with using AI, specifically ChatGPT, within the course of developing a game in Unity, I've definitely encountered challenges. There have been numerous instances where ChatGPT provided incorrect answers, which led me astray and cost me hours in my coding process. Although it’s mentioned in fine print that the tool can make mistakes, it's a reminder that, despite the significant hype around AI, like any piece of technology, it has its limitations.
+
+This requires a lot of tinkering to actually get it to assist effectively in writing code. However, I see a significant potential for AI to enhance software engineering education. Just as search engines were initially thought of as a form of cheating but have become a symbiotic part of our learning process, AI tools like ChatGPT could play a similar role. They can help people understand the code they are working with, offering a powerful way to engage with and learn from technology. Embracing these tools could lead to deeper, more intuitive learning experiences in software engineering and beyond.
+
 ## Comparative Analysis:
 
+In the context of software engineering education, traditional teaching methods compared to AI-enhanced approaches like using ChatGPT have unique aspects. Traditional methods often rely on structured lessons, which can sometimes be less engaging. However, AI-enhanced methods can significantly boost engagement. For example, students can use ChatGPT to ask prompts that help them solve specific coding problems. Implementing ways to teach people how to properly ask questions to ChatGPT is crucial, as mastering this skill can greatly benefit students' ability to improve their code. Moreover, if students forget something taught in class, they can use ChatGPT to have the material explained again, aiding knowledge retention. This is particularly useful when students cannot always be in constant contact with professors.
+
 ## Future Considerations:
+
+I believe the future role of AI in software engineering education is poised for significant advancements and could profoundly influence our learning processes. As we've seen with other technologies, AI has the potential to become symbiotic with our educational systems, enhancing and possibly even replacing traditional teaching roles in some contexts. The idea is not far-fetched that AI could someday replace aspects of teaching or even certain tasks performed by software engineers themselves.
+
+However, we are currently far from this scenario. Just as the introduction of calculators did not render mathematicians obsolete, AI's integration into software engineering is not about replacing engineers but enhancing their capabilities and efficiency. It's crucial that we embrace and grow with AI technology rather than shy away from it. By adapting to and advancing with AI, we can ensure it serves as a tool that augments our skills and broadens our educational and professional horizons, rather than a replacement that diminishes our roles.
 
 ## Conclusion:
