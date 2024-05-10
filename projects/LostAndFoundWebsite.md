@@ -14,7 +14,7 @@ labels:
   - Group Collaboration
   - TestCafe
   - HTTPS
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A responsive web application for finding and claiming lost and found items that my group developed in my Software Engineering Class."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
