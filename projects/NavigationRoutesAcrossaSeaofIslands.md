@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/poly.png
 title: "Navigation Routes Across a Sea of Islands"
 date: 2023
 published: true
