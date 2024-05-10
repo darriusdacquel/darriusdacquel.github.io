@@ -47,65 +47,56 @@
   ],
   "work": [
     {
-      "RelevantExperience": [
-        {
-          "company": "Jamba Juice",
-          "location": "Honolulu, HI",
-          "position": "Team Member",
-          "startDate": "2021-01-01",
-          "endDate": "Present",
-          "responsibilities": [
-            "Responsible for handling orders and customer satisfaction utilizing 5 years of customer service experience.",
-            "Applied valuable memory skills in the memorization of many different recipes resulting in accurate orders and faster delivery.",
-            "Coordinated with a group of 6 team members to effectively keep wait times under 3 minutes."
-          ]
-        },
-        {
-          "company": "Somi Somi",
-          "location": "Honolulu, HI",
-          "position": "Employee",
-          "startDate": "2019-09-01",
-          "endDate": "2020-03-01",
-          "responsibilities": [
-            "Handled customer orders, store inventory, and distribution of products directly to valued customers.",
-            "Assisted night team in the cleaning of the store and personally responsible for the sanitization of each machine in accordance with company sanitation policy."
-          ]
-        },
-        {
-          "company": "Sweet Creams",
-          "location": "Honolulu, HI",
-          "position": "Shift Lead",
-          "startDate": "2018-06-01",
-          "endDate": "2019-06-01",
-          "responsibilities": [
-            "In charge of employee roles and responsibilities for the day.",
-            "Handled counting of the drawers and weekly bank deposits.",
-            "Responsible for orders, and product distribution."
-          ]
-        },
-        {
-          "company": "McDonald’s",
-          "location": "Honolulu, HI",
-          "position": "Employee",
-          "startDate": "2016-04-01",
-          "endDate": "2017-12-01",
-          "responsibilities": [
-            "Managed restaurant counter where many order issues were resolved resulting in appraisal from both customers and managers.",
-            "Helped with counter inventory, store sanitization, and food assembly."
-          ]
-        },
-        {
-          "company": "UH Manoa Law Library",
-          "position": "Law Library Service Representative IV",
-          "startDate": "2021-10-01",
-          "endDate": "Present",
-          "summary": "Leading archive digitization and enhancing legal research access at UH Manoa Law Library. I support law students with their research needs and coordinate library projects, maintaining high standards in administrative tasks.",
-          "highlights": [
-            "Led the digitization of archives, enhancing the preservation and accessibility of historical documents.",
-            "Contributed to the planning and execution of special projects, events, displays, and workshops in collaboration with library staff.",
-            "Ensured meticulous attention to detail in administrative tasks including data entry, record management, and report generation."
-          ]
-        }
+      "company": "UH Manoa Law Library",
+      "position": "Law Library Service Representative IV",
+      "website": "",
+      "startDate": "2021-10-01",
+      "endDate": "Present",
+      "summary": "Leading archive digitization and enhancing legal research access at UH Manoa Law Library. I support law students with their research needs and coordinate library projects, maintaining high standards in administrative tasks.",
+      "highlights": [
+        "Led the digitization of archives, enhancing the preservation and accessibility of historical documents.",
+        "Contributed to the planning and execution of special projects, events, displays, and workshops in collaboration with library staff.",
+        "Ensured meticulous attention to detail in administrative tasks including data entry, record management, and report generation."
+
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
