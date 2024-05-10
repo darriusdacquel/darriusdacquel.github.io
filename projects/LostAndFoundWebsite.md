@@ -13,7 +13,7 @@ labels:
   - React
   - TestCafe
   - HTTPS
-summary: "A responsive web application for finding and claiming lost and found items that my group developed in my Software Engineering Class."
+summary: "A responsive web application for finding and claiming lost and found items."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">

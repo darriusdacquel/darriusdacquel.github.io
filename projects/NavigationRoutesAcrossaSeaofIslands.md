@@ -8,7 +8,7 @@ published: true
 labels:
   - Data Structures
   - Algorithims
-summary: "This assignment is a collaborative endeavor focusing on the distribution and circulation of resources and people among a network of interconnected islands that my group created in Algorithims class."
+summary: "This assignment is a collaborative endeavor focusing on the distribution and circulation of resources and people among a network of interconnected islands."
 ---
 
 <div style="text-align: center;">
