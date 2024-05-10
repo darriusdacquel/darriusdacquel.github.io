@@ -8,7 +8,6 @@ published: true
 labels:
   - C++
   - Object Oriented Programming
-  - Group Project
   - GitHub
 summary: "This group project involves creating a basic Hotel Management System where users can perform various operations related to room management, customer check-in and check-out, and generate guest summary reports."
 ---
