@@ -40,9 +40,6 @@ During the final playthrough session in our class, where we all had the opportun
 Here’s a snippet of the script I wrote for controlling the game's gravity mechanics:
 
 ```csharp
-using System.Collections;
-using UnityEngine;
-
 public class GravityController : MonoBehaviour
 {
     public bool IsGravityUp { get; private set; } = false;
@@ -52,7 +49,6 @@ public class GravityController : MonoBehaviour
     private float lastGravityFlipTime = -2.0f;
     private AudioManager audioManager;
     private PlayerMovement playerMovement;  // Added to access PlayerMovement
-
     private float groundedBufferTime = 0.5f;  // Time in seconds for the grounded buffer
     private float lastGroundedTime;  // Time when last grounded
 
