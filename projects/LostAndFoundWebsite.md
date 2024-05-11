@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/unnamed.png
+image: img/lostandfoundsqaure.png
 title: "Item Depot: UH Manoa Lost and Found Website"
 date: 2024
 published: true
