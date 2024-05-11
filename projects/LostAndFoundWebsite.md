@@ -1,31 +1,39 @@
 ---
 layout: project
 type: project
-image: img/lostandfoundsqaure.png
-title: "Lost and Found Website"
+image: img/unnamed.png
+title: "Item Depot: UH Manoa Lost and Found Website"
 date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-  - React
-  - TestCafe
-  - HTTPS
-summary: "A responsive web application for finding and claiming lost and found items."
+    - Javascript
+    - Meteor
+    - MongoDB
+    - GitHub
+    - React
+    - TestCafe
+    - HTTPS
+summary: "A comprehensive lost and found management system developed for UH Manoa, enhancing campus operations and student interactions."
 ---
 
 <img class="img-fluid" src="../img/landingFinal.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+**Project Overview**
+As part of my Software Engineering I class, I worked with five other team members to create 'Item Depot', a lost and found management website for UH Manoa. This month-long project involved using agile methodologies, specifically issue-driven management with GitHub, separate branches for features, and merges.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+**Team Collaboration and Roles**
+Our team adopted a collaborative approach, with each member contributing to various aspects of the project. While I mainly focused on website styling, ensuring the interface was user-friendly and visually appealing, we all supported each other to maintain consistency across the site. This teamwork was essential for keeping everyone aligned with the project goals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+**Technical Challenges and Learning**
+Deploying a live website introduced us to the complexities of real-world software deployment. We implemented several features that required comprehensive backend and frontend coordination, including:
+- User profiles with customizable profile pictures
+- A leaderboard system for active users
+- Functionalities for adding, claiming, and managing lost and found items
 
-Here is some example code to illustrate Simple Schema use:
+**Outcome and Reflections**
+The project was a success, resulting in a functional and aesthetically pleasing website that has been well received by the campus community. It was a rewarding experience that enhanced our understanding of both the technical and managerial aspects of software development.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+**Links and Resources**
+- Explore our GitHub repository: [Item Depot GitHub](https://github.com/item-depot)
+- Visit the live website: [Item Depot Live](https://itemdepot.org/)
+- Check out our homepage: [Item Depot Homepage](https://item-depot.github.io/)
