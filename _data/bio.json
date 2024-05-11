@@ -101,7 +101,8 @@
       "title": "Google Doodle State Winner",
       "date": "2018",
       "awarder": "Google",
-      "Articles": ["https://www.mckinley.k12.hi.us/single-post/2018/05/07/doodle-4-google-voting-starts-may-7th",
+      "website": [
+        "https://www.mckinley.k12.hi.us/single-post/2018/05/07/doodle-4-google-voting-starts-may-7th",
       "https://www.khon2.com/news/hawaii-high-school-student-needs-your-vote-in-doodle-4-google-contest"
         ]
     }
