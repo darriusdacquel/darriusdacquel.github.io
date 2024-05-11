@@ -120,8 +120,9 @@
   "awards": [
     {
       "title": "Google Doodle State Winner",
-      "date": "2018",
-      "website": "https://www.khon2.com/news/hawaii-high-school-student-needs-your-vote-in-doodle-4-google-contest"
+      "awarder": "Google",
+      "website": "https://www.khon2.com/news/hawaii-high-school-student-needs-your-vote-in-doodle-4-google-contest",
+      "date": "2018"
     }
   ],
   "references": [
