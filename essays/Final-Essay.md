@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Code, Conflicts, and Coffee"
-date: 2024-05-24
+date: 2024-05-10
 published: true
 labels:
   - Agile Project Management
