@@ -72,8 +72,6 @@
       "company": "UH Manoa Law Library",
       "position": "Law Library Service Representative IV",
       "website": "https://law.hawaii.edu/20978/",
-      "startDate": "2021-10-01",
-      "endDate": "Present",
       "summary": "Leading archive digitization and enhancing legal research access at UH Manoa Law Library. I support law students with their research needs and coordinate library projects, maintaining high standards in administrative tasks.",
       "highlights": [
         "Led the digitization of archives, enhancing the preservation and accessibility of historical documents.",
@@ -85,8 +83,6 @@
       "company": "Jamba Juice",
       "location": "Honolulu, HI",
       "position": "Team Member",
-      "startDate": "2021-01-01",
-      "endDate": "Present",
       "responsibilities": [
         "Responsible for handling orders and customer satisfaction utilizing 5 years of customer service experience.",
         "Applied valuable memory skills in the memorization of many different recipes resulting in accurate orders and faster delivery.",
@@ -97,8 +93,6 @@
       "company": "Sweet Creams",
       "location": "Honolulu, HI",
       "position": "Shift Lead",
-      "startDate": "2018-06-01",
-      "endDate": "2019-06-01",
       "responsibilities": [
         "In charge of employee roles and responsibilities for the day.",
         "Handled counting of the drawers and weekly bank deposits.",
@@ -109,8 +103,6 @@
       "company": "McDonald’s",
       "location": "Honolulu, HI",
       "position": "Employee",
-      "startDate": "2016-04-01",
-      "endDate": "2017-12-01",
       "responsibilities": [
         "Managed restaurant counter where many order issues were resolved resulting in appraisal from both customers and managers.",
         "Helped with counter inventory, store sanitization, and food assembly."
@@ -122,7 +114,7 @@
       "title": "Google Doodle State Winner",
       "date": "2018",
       "awarder": "Google",
-      "articles": [
+      "website": [
         "https://www.mckinley.k12.hi.us/single-post/2018/05/07/doodle-4-google-voting-starts-may-7th",
         "https://www.khon2.com/news/hawaii-high-school-student-needs-your-vote-in-doodle-4-google-contest"
       ]
