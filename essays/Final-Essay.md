@@ -12,7 +12,7 @@ labels:
 
 <img width="300px" 
      class="rounded float-start pe-4" 
-     src="../img/planmeme.png">
+     src="../img/planmeme.png.png">
 
 Software engineering is a multifaceted discipline that extends beyond mere coding or application development that many people don't commonly know. It encompasses a variety of concepts, methodologies, and technologies aimed at improving the efficiency, reliability, and effectiveness of software projects. My experience working on the "Item Depot" project, a lost and found management website for the University of Hawaii at Manoa. By focusing on Agile Project Management, Configuration Management, and User Interface Frameworks, I applied these fundamental software engineering concepts in our project and what their broader implications beyond traditional web development can be.
 
