@@ -16,7 +16,7 @@ labels:
 summary: "A challenging 2D platformer developed in an Intro to Game Design class, highlighting a unique gravity-flipping mechanic."
 ---
 
-<img class="img-fluid" src="../img/dream.png">
+<img class="img-fluid" src="../img/dreamFinal.png">
 
 **Project Overview**
 In my Intro to Game Design class, I collaborated with two classmates on a month-long project to conceptualize, design, and develop a 2D pixel platformer game, 'Dream Flip'. This project involved creating an engaging game atmosphere and a unique gameplay mechanic that allows players to flip gravity.
