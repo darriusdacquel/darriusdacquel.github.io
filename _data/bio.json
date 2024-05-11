@@ -87,7 +87,7 @@
       "position": "Team Member",
       "startDate": "2021-01-01",
       "endDate": "Present",
-      "responsibilities": [
+      "highlights": [
         "Responsible for handling orders and customer satisfaction utilizing 5 years of customer service experience.",
         "Applied valuable memory skills in the memorization of many different recipes resulting in accurate orders and faster delivery.",
         "Coordinated with a group of 6 team members to effectively keep wait times under 3 minutes."
@@ -99,7 +99,7 @@
       "position": "Shift Lead",
       "startDate": "2018-06-01",
       "endDate": "2019-06-01",
-      "responsibilities": [
+      "highlights": [
         "In charge of employee roles and responsibilities for the day.",
         "Handled counting of the drawers and weekly bank deposits.",
         "Responsible for orders, and product distribution."
@@ -111,7 +111,7 @@
       "position": "Employee",
       "startDate": "2016-04-01",
       "endDate": "2017-12-01",
-      "responsibilities": [
+      "highlights": [
         "Managed restaurant counter where many order issues were resolved resulting in appraisal from both customers and managers.",
         "Helped with counter inventory, store sanitization, and food assembly."
       ]
@@ -121,11 +121,7 @@
     {
       "title": "Google Doodle State Winner",
       "date": "2018",
-      "awarder": "Google",
-      "articles": [
-        "https://www.mckinley.k12.hi.us/single-post/2018/05/07/doodle-4-google-voting-starts-may-7th",
-        "https://www.khon2.com/news/hawaii-high-school-student-needs-your-vote-in-doodle-4-google-contest"
-      ]
+      "website": "https://www.khon2.com/news/hawaii-high-school-student-needs-your-vote-in-doodle-4-google-contest"
     }
   ],
   "references": [
