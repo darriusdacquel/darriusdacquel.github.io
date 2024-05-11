@@ -7,18 +7,42 @@
     "phone": "808-366-1741",
     "website": "https://darriusdacquel.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences with a Minor in Japanese at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96706",
+      "city": "Ewa Beach",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "darriusdacquel", "url": "http://github.com/darriusdacquel" },
-      { "network": "linkedin", "username": "darriusdacquel", "url": "https://www.linkedin.com/in/darrius-dacquel-59093528b/" }
+      {
+        "network": "github",
+        "username": "darriusdacquel",
+        "url": "http://github.com/darriusdacquel"
+      },
+      {
+        "network": "linkedin",
+        "username": "darriusdacquel",
+        "url": "https://www.linkedin.com/in/darrius-dacquel-59093528b/"
+      }
     ]
   },
   "interests": [
-    { "name": "Video Editing" },
-    { "name": "Weight Lifting" },
-    { "name": "Cooking" },
-    { "name": "3D Graphics" },
-    { "name": "Piano" }
+    {
+      "name": "Video Editing"
+    },
+    {
+      "name": "Weight Lifting"
+    },
+    {
+      "name": "Cooking"
+    },
+    {
+      "name": "3D Graphics"
+    },
+    {
+      "name": "Piano"
+    }
   ],
   "skills": [
     {
@@ -41,8 +65,7 @@
       "studyType": "B.S.",
       "startDate": "2020-08-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -57,7 +80,6 @@
         "Led the digitization of archives, enhancing the preservation and accessibility of historical documents.",
         "Contributed to the planning and execution of special projects, events, displays, and workshops in collaboration with library staff.",
         "Ensured meticulous attention to detail in administrative tasks including data entry, record management, and report generation."
-
       ]
     },
     {
@@ -66,17 +88,23 @@
       "position": "Team Member",
       "startDate": "2021-01-01",
       "endDate": "Present",
-      "responsibilities": ["Responsible for handling orders and customer satisfaction utilizing 5 years of customer service experience.", "Applied valuable memory skills in the memorization of many different recipes resulting in accurate orders and faster delivery.", "Coordinated with a group of 6 team members to effectively keep wait times under 3 minutes."
+      "responsibilities": [
+        "Responsible for handling orders and customer satisfaction utilizing 5 years of customer service experience.",
+        "Applied valuable memory skills in the memorization of many different recipes resulting in accurate orders and faster delivery.",
+        "Coordinated with a group of 6 team members to effectively keep wait times under 3 minutes."
       ]
     },
     {
-    "company": "Sweet Creams",
-    "location": "Honolulu, HI",
-    "position": "Shift Lead",
-    "startDate": "2018-06-01",
-    "endDate": "2019-06-01",
-    "responsibilities": [
-      "In charge of employee roles and responsibilities for the day.", "Handled counting of the drawers and weekly bank deposits.", "Responsible for orders, and product distribution."]
+      "company": "Sweet Creams",
+      "location": "Honolulu, HI",
+      "position": "Shift Lead",
+      "startDate": "2018-06-01",
+      "endDate": "2019-06-01",
+      "responsibilities": [
+        "In charge of employee roles and responsibilities for the day.",
+        "Handled counting of the drawers and weekly bank deposits.",
+        "Responsible for orders, and product distribution."
+      ]
     },
     {
       "company": "McDonald’s",
@@ -84,8 +112,10 @@
       "position": "Employee",
       "startDate": "2016-04-01",
       "endDate": "2017-12-01",
-      "responsibilities": ["Managed restaurant counter where many order issues were resolved resulting in appraisal from both customers and managers.",
-        "Helped with counter inventory, store sanitization, and food assembly."]
+      "responsibilities": [
+        "Managed restaurant counter where many order issues were resolved resulting in appraisal from both customers and managers.",
+        "Helped with counter inventory, store sanitization, and food assembly."
+      ]
     }
   ],
   "awards": [
@@ -93,10 +123,10 @@
       "title": "Google Doodle State Winner",
       "date": "2018",
       "awarder": "Google",
-      "website": [
+      "articles": [
         "https://www.mckinley.k12.hi.us/single-post/2018/05/07/doodle-4-google-voting-starts-may-7th",
-      "https://www.khon2.com/news/hawaii-high-school-student-needs-your-vote-in-doodle-4-google-contest"
-        ]
+        "https://www.khon2.com/news/hawaii-high-school-student-needs-your-vote-in-doodle-4-google-contest"
+      ]
     }
   ],
   "references": [
