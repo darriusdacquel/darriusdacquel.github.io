@@ -66,10 +66,7 @@
       "position": "Team Member",
       "startDate": "2021-01-01",
       "endDate": "Present",
-      "responsibilities": [
-        "Responsible for handling orders and customer satisfaction utilizing 5 years of customer service experience.",
-        "Applied valuable memory skills in the memorization of many different recipes resulting in accurate orders and faster delivery.",
-        "Coordinated with a group of 6 team members to effectively keep wait times under 3 minutes."
+      "responsibilities": ["Responsible for handling orders and customer satisfaction utilizing 5 years of customer service experience.", "Applied valuable memory skills in the memorization of many different recipes resulting in accurate orders and faster delivery.", "Coordinated with a group of 6 team members to effectively keep wait times under 3 minutes."
       ]
     },
     {
@@ -79,10 +76,7 @@
     "startDate": "2018-06-01",
     "endDate": "2019-06-01",
     "responsibilities": [
-      "In charge of employee roles and responsibilities for the day.",
-      "Handled counting of the drawers and weekly bank deposits.",
-      "Responsible for orders, and product distribution."
-    ]
+      "In charge of employee roles and responsibilities for the day.", "Handled counting of the drawers and weekly bank deposits.", "Responsible for orders, and product distribution."]
     },
     {
       "company": "McDonald’s",
@@ -90,10 +84,8 @@
       "position": "Employee",
       "startDate": "2016-04-01",
       "endDate": "2017-12-01",
-      "responsibilities": [
-        "Managed restaurant counter where many order issues were resolved resulting in appraisal from both customers and managers.",
-        "Helped with counter inventory, store sanitization, and food assembly."
-      ]
+      "responsibilities": ["Managed restaurant counter where many order issues were resolved resulting in appraisal from both customers and managers.",
+        "Helped with counter inventory, store sanitization, and food assembly."]
     }
   ],
   "awards": [
