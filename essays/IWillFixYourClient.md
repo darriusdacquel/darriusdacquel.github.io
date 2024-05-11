@@ -4,7 +4,7 @@ type: essay
 title: "I Will Fix Your Client"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-15
-published: true
+published: false
 labels:
   - The language of my Future
   - C why I like it
