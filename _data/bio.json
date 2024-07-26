@@ -9,10 +9,10 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences with a Minor in Japanese at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": {
       "address": "",
-      "postalCode": "96706",
-      "city": "Ewa Beach",
+      "postalCode": "",
+      "city": "",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": ""
     },
     "profiles": [
       {
@@ -38,7 +38,7 @@
       "name": "Cooking"
     },
     {
-      "name": "3D Graphics"
+      "name": "Video Games"
     },
     {
       "name": "Piano"
@@ -63,8 +63,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science w/ Minor in Japanese (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2020-08-01",
-      "endDate": "Present"
+      "startDate": "2020-08-26",
+      "endDate": "2025-05-13"
     }
   ],
   "work": [
