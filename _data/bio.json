@@ -11,7 +11,7 @@
       "address": "",
       "postalCode": "",
       "city": "",
-      "countryCode": "USA",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
@@ -47,11 +47,11 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["C", "C++", "Java", "Javascript", "C#", "HTML"]
+      "keywords": ["Python", C", "C++", "Java", "Javascript", "C#", "HTML"]
     },
     {
       "name": "Software & Tools",
-      "keywords": ["MS Office", "Google Drive", "GitHub", "Maya", "Adobe Creative Cloud (Photoshop, Premiere Pro, Illustrator, InDesign)", "IntelliJ", "Eclipse", "Visual Studio Code", "Underscore"]
+      "keywords": ["LaTeX", "Overleaf", "Jupyter", "MS Office", "Google Drive", "GitHub", "Maya", "Adobe Creative Cloud (Photoshop, Premiere Pro, Illustrator, InDesign)", "IntelliJ", "Eclipse", "Visual Studio Code", "Underscore"]
     },
     {
       "name": "Frameworks",
@@ -61,7 +61,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science w/ Minor in Japanese (expected Spring, 2025)",
+      "area": "Computer Science w/ Minor in Japanese (Expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2020-08-26",
       "endDate": "2025-05-13"
