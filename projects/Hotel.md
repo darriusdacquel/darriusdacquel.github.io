@@ -48,6 +48,6 @@ Room searchRoom(Room rooms[MAX_ROOMS], int amtOfRooms) {
 }
 ```
 
-Source: <a href="https://github.com/darriusdacquel/Hotel-Management-Group-Final/main/hotel.cpp">InClassFinalProject-ProgramStructure/hotel.cpp</a>
+Source: <a href="https://github.com/darriusdacquel/Hotel-Management-Group-Final/blob/main/hotel.cpp">Hotel-Management-Group-Final/hotel.cpp</a>
 
 Through this group project, I deepened my technical expertise and solidified my foundational programming skills. I learned the crucial role that clear communication and leadership play in the success of collaborative tech initiatives. The project was a true reflection of my ability to blend technical prowess with social skills to foster a productive team environment and deliver a robust, user-friendly software product.
