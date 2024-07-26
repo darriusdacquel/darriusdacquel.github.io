@@ -26,26 +26,24 @@ My primary responsibilities were in the backend development of our system, focus
 
 Here's a look at the searchRoom class I developed:
 ```cpp
-Room searchRoom(Room rooms[MAX_ROOMS], int amtOfRooms) {
-    Room tempRoom; // Temporary Room object to store the search result
-    int roomNumber;
+Room searchRoom(Room rooms[MAX_ROOMS]) {
+        Room tempRoom;
+        int roomNumber;
 
-    std::cout << "Enter room number: ";
-    std::cin >> roomNumber;
+        std::cout << "Enter room number: ";
+        std::cin >> roomNumber;
 
-    // Iterate through the rooms array to find a room with the given number
-    for (int i = 0; i < amtOfRooms; i++) {
-        if (roomNumber == rooms[i].getRoomNum()) {
-            tempRoom = rooms[i]; // Store the found room
-            rooms[i].displayRoom(rooms[i]); // Display the room details
-            return tempRoom; // Return the found room and exit the function
+        for (int i = 0; i < amtOfRooms; i++) {
+            if (roomNumber == rooms[i].getRoomNum()) {
+                tempRoom = rooms[i];
+                rooms[i].displayRoom();
+                return tempRoom;
+            }
         }
-    }
 
-    // If the loop completes without finding the room, the room is not found
-    std::cout << "Room not found!!!" << std::endl;
-    return tempRoom; // tempRoom will be an uninitialized Room object if not found
-}
+        std::cout << "Room not found!!!" << std::endl;
+        return tempRoom;
+    }
 ```
 
 Source: <a href="https://github.com/darriusdacquel/Hotel-Management-Group-Final/blob/main/hotel.cpp">Hotel-Management-Group-Final/hotel.cpp</a>
