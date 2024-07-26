@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "HI"
     },
     "profiles": [
       {
