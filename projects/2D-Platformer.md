@@ -32,6 +32,8 @@ Debugging a video game brought its own set of unique challenges, which were cons
 **Concept Evolution and Learning Experience**  
 Our initial concept for 'Dream Flip' was ambitious: we envisioned a game where players could switch between two dimensions, each with its own unique challenges. In one dimension, players would interact with visible objects, while in the other, they would have to navigate and dodge unseen beings. The idea was intriguing, but after presenting it to our classmates and teacher, we quickly realized it was too complex to execute within our one-month timeframe. Our teacher emphasized that we were essentially trying to develop two games simultaneously, which would likely result in an incomplete and unfocused final product.
 
+- Watch our prototype here: [Dream Flip Prototype](https://youtu.be/GzXWMyHe2vo)
+
 This led us to undergo two rounds of idea pitching and critical feedback sessions. Through this iterative process, we decided to pivot from our original concept and focus on a more streamlined gameplay mechanic—flipping gravity. This new direction allowed us to refine our ideas and concentrate on creating a cohesive and polished game.
 
 Throughout this project, we learned and applied several core game design principles, including:
