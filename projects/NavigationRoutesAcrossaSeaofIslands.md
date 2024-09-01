@@ -4,7 +4,7 @@ type: project
 image: img/poly.png
 title: "Navigation Routes Across a Sea of Islands"
 date: 2023
-published: true
+published: false
 labels:
   - Data Structures
   - Algorithims

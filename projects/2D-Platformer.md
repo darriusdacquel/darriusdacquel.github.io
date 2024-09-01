@@ -18,7 +18,7 @@ summary: "A challenging 2D platformer developed in an Intro to Game Design class
 
 <img class="img-fluid" src="../img/dreamFinal.png">
 
-**Project Overview**
+**Project Overview**  
 In my Intro to Game Design class, I collaborated with two classmates on a month-long project to conceptualize, design, and develop a 2D pixel platformer game, 'Dream Flip'. This project involved creating an engaging game atmosphere and a unique gameplay mechanic that allows players to flip gravity.
 
 **Team Roles**
@@ -26,17 +26,38 @@ In my Intro to Game Design class, I collaborated with two classmates on a month-
 - **Level Design**: Another team member focused on conceptualizing the levels, ensuring that each level challenges and entertains players.
 - **Art**: The third member of our team handled all the art, creating visuals that perfectly matched the game's intended atmosphere.
 
-**Development Challenges**
+**Development Challenges**  
 Debugging a video game brought its own set of unique challenges, which were considerably different and more complex than any other coding tasks I've tackled. It was not only a technically demanding experience but also extremely rewarding and fun, especially as someone who has grown up with a deep passion for video games.
+
+**Concept Evolution and Learning Experience**  
+Our initial concept for 'Dream Flip' was ambitious: we envisioned a game where players could switch between two dimensions, each with its own unique challenges. In one dimension, players would interact with visible objects, while in the other, they would have to navigate and dodge unseen beings. The idea was intriguing, but after presenting it to our classmates and teacher, we quickly realized it was too complex to execute within our one-month timeframe. Our teacher emphasized that we were essentially trying to develop two games simultaneously, which would likely result in an incomplete and unfocused final product.
+
+This led us to undergo two rounds of idea pitching and critical feedback sessions. Through this iterative process, we decided to pivot from our original concept and focus on a more streamlined gameplay mechanic—flipping gravity. This new direction allowed us to refine our ideas and concentrate on creating a cohesive and polished game.
+
+Throughout this project, we learned and applied several core game design principles, including:
+
+- **Storyboarding**: We started by creating storyboards to map out the game’s narrative and the player’s journey. This helped us visualize the flow of the game and identify key moments where the gravity-flipping mechanic could be most impactful.
+
+- **Mock Levels**: Before jumping into development, we designed mock levels to experiment with different challenges and gameplay dynamics. This allowed us to test how the gravity-flipping mechanic could be integrated into various level designs, ensuring that it was both fun and intuitive for players.
+
+- **Prototyping**: We developed early prototypes to test the game mechanics in action. This step was crucial in identifying potential issues early on and iterating on the gameplay until it felt right.
+
+- **Asset Creation**: As part of our hands-on experience, we created all our game assets from scratch. This included character sprites, background art, and UI elements, all of which needed to align with the game’s atmosphere and theme.
+
+- **Feedback and Iteration**: One of the most valuable lessons was the importance of feedback. By sharing our game with classmates and receiving constructive criticism, we were able to continuously improve and refine our game. This iterative approach ensured that our final product was both challenging and enjoyable.
+
+- **Understanding Player Psychology**: We delved into the psychology of what makes a game fun, learning about concepts like flow, challenge, and reward. This knowledge helped us design levels that were not only difficult but also satisfying to complete.
+
+This project taught us the essential steps involved in pitching an idea within the gaming industry and transforming it into a polished final product. It was a journey of learning, adapting, and ultimately creating something we are proud of.
 
 **Play and Watch**
 - Watch our game demo here: [YouTube Demo](https://www.youtube.com/watch?v=bRt4Dj-3v-0&ab_channel=Nobyy)
 - Play 'Dream Flip' on our Itch.io page: [Play Dream Flip](https://sephye.itch.io/dream-flip)
 
-**Testing Insights**
+**Testing Insights**  
 During the final playthrough session in our class, where we all had the opportunity to play each other's games, an interesting observation emerged. None of my classmates were able to beat 'Dream Flip', possibly due to its challenging design, which I was more familiar with as the developer. This initially led me to believe that the game might be too difficult. However, when I later shared the game with friends outside of class, they managed to beat it quite easily. This experience underscored the importance of public testing and obtaining feedback from a diverse range of players with varying skill levels. It highlighted how crucial it is to step outside the development bubble to get true insights into a game's accessibility and player experience.
 
-**Sample Code**
+**Sample Code**  
 Here’s a snippet of the script I wrote for controlling the game's gravity mechanics:
 
 ```csharp
@@ -105,4 +126,3 @@ public class GravityController : MonoBehaviour
         targetRotation = Quaternion.Euler(0, 0, 0);
     }
 }
-```
