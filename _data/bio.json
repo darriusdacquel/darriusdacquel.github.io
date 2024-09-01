@@ -69,6 +69,19 @@
   ],
   "work": [
     {
+      "company": "University of Hawaii at Manoa",
+      "position": "Research Assistant",
+      "location": "Honolulu, HI",
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "summary": "Conducting advanced research in data management and machine learning techniques at the University of Hawaii at Manoa, contributing to academic publications and enhancing the predictive capabilities of research models.",
+      "highlights": [
+        "Ran scripts for our database to manage and analyze data, improving data accessibility and analysis efficiency.",
+        "Wrote research papers to document findings, leading to contributions in academic journals.",
+        "Applied machine learning techniques for a tight-binding model, enhancing the accuracy and predictive capabilities of our research."
+      ]
+    },
+    {
       "company": "UH Manoa Law Library",
       "position": "Law Library Service Representative IV",
       "website": "https://law.hawaii.edu/20978/",
