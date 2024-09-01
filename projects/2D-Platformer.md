@@ -32,25 +32,25 @@ Debugging a video game brought its own set of unique challenges, which were cons
 **Concept Evolution and Learning Experience**  
 Our initial concept for 'Dream Flip' was ambitious: we envisioned a game where players could switch between two dimensions, each with its own unique challenges. In one dimension, players would interact with visible objects, while in the other, they would have to navigate and dodge unseen beings. The idea was intriguing, but after presenting it to our classmates and teacher, we quickly realized it was too complex to execute within our one-month timeframe. Our teacher emphasized that we were essentially trying to develop two games simultaneously, which would likely result in an incomplete and unfocused final product.
 
+We began by **storyboarding** to map out the game’s narrative and the player’s journey. This helped us visualize the flow of the game and identify key moments where the gravity-flipping mechanic could be most impactful.
+
+
 - Watch our prototype here: [Dream Flip Prototype](https://youtu.be/GzXWMyHe2vo)
 
-This led us to undergo two rounds of idea pitching and critical feedback sessions. Through this iterative process, we decided to pivot from our original concept and focus on a more streamlined gameplay mechanic—flipping gravity. This new direction allowed us to refine our ideas and concentrate on creating a cohesive and polished game.
+However, after presenting our storyboards and initial concepts in a series of feedback sessions with our classmates and teacher, it became clear that our original idea was too ambitious. These critical feedback sessions were instrumental in shaping the direction of the game. After two rounds of idea pitching and criticism, we realized that our concept needed to be more focused and achievable. We decided to pivot from our original idea to a more streamlined gameplay mechanic—flipping gravity.
 
-Throughout this project, we learned and applied several core game design principles, including:
+With this new direction in mind, we proceeded to create **mock levels** to experiment with different challenges and gameplay dynamics. This allowed us to test how the gravity-flipping mechanic could be integrated into various level designs, ensuring that it was both fun and intuitive for players.
 
-- **Storyboarding**: We started by creating storyboards to map out the game’s narrative and the player’s journey. This helped us visualize the flow of the game and identify key moments where the gravity-flipping mechanic could be most impactful.
+Next, we developed early **prototypes** to test the game mechanics in action. This step was crucial in identifying potential issues early on and iterating on the gameplay until it felt right.
 
-- **Mock Levels**: Before jumping into development, we designed mock levels to experiment with different challenges and gameplay dynamics. This allowed us to test how the gravity-flipping mechanic could be integrated into various level designs, ensuring that it was both fun and intuitive for players.
+As part of our hands-on experience, we also focused on **asset creation**, crafting all of our game assets from scratch. This included character sprites, background art, and UI elements, all of which needed to align with the game’s atmosphere and theme.
 
-- **Prototyping**: We developed early prototypes to test the game mechanics in action. This step was crucial in identifying potential issues early on and iterating on the gameplay until it felt right.
+Throughout this process, we continually sought feedback and embraced **iteration** as a way to refine our game. By sharing our game with classmates and receiving constructive criticism, we were able to make continuous improvements. This iterative approach ensured that our final product was both challenging and enjoyable.
 
-- **Asset Creation**: As part of our hands-on experience, we created all our game assets from scratch. This included character sprites, background art, and UI elements, all of which needed to align with the game’s atmosphere and theme.
-
-- **Feedback and Iteration**: One of the most valuable lessons was the importance of feedback. By sharing our game with classmates and receiving constructive criticism, we were able to continuously improve and refine our game. This iterative approach ensured that our final product was both challenging and enjoyable.
-
-- **Understanding Player Psychology**: We delved into the psychology of what makes a game fun, learning about concepts like flow, challenge, and reward. This knowledge helped us design levels that were not only difficult but also satisfying to complete.
+Finally, we delved into the psychology of what makes a game fun, learning about concepts like **flow, challenge, and reward**. This knowledge helped us design levels that were not only difficult but also satisfying to complete.
 
 This project taught us the essential steps involved in pitching an idea within the gaming industry and transforming it into a polished final product. It was a journey of learning, adapting, and ultimately creating something we are proud of.
+
 
 **Play and Watch**
 - Watch our game demo here: [YouTube Demo](https://www.youtube.com/watch?v=bRt4Dj-3v-0&ab_channel=Nobyy)
