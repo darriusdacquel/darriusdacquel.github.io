@@ -47,7 +47,7 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["Python", C", "C++", "Java", "Javascript", "C#", "HTML"]
+      "keywords": ["Python", "C", "C++", "Java", "Javascript", "C#", "HTML"]
     },
     {
       "name": "Software & Tools",
@@ -145,7 +145,7 @@
   ],
   "references": [
     {
-      "name": "Lynette Rudolfo (Manager of Public Services, Law Library), Phone: (808) 956-5581",
+      "name": "Lynette Rudolfo (Manager of Public Services, Law Library), Phone: (808) 956-5581"
     }
   ]
 }
