@@ -51,11 +51,11 @@
     },
     {
       "name": "Software & Tools",
-      "keywords": ["LaTeX", "Overleaf", "Jupyter", "MS Office", "Google Drive", "GitHub", "Maya", "Adobe Creative Cloud (Photoshop, Premiere Pro, Illustrator, InDesign)", "IntelliJ", "Eclipse", "Visual Studio Code", "Underscore"]
+      "keywords": ["MS Office", "Google Drive", "GitHub", "Maya", "LaTeX", "Overleaf", "Jupyter", "Adobe Creative Cloud (Photoshop, Premiere Pro, Illustrator, InDesign)", "IntelliJ", "Eclipse", "Visual Studio Code", "Underscore"]
     },
     {
       "name": "Frameworks",
-      "keywords": ["Unity", "React", "BootStrap", "Meteor", "MongoDB"]
+      "keywords": ["Unity", "React", "Bootstrap", "Meteor", "MongoDB"]
     }
   ],
   "education": [
