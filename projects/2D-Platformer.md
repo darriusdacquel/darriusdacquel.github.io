@@ -58,11 +58,12 @@ Finally, we delved into the psychology of what makes a game fun, learning about 
 
 This project taught us the essential steps involved in pitching an idea within the gaming industry and transforming it into a polished final product. It was a journey of learning, adapting, and ultimately creating something we are proud of.
 
-<p>
+<div class="clearfix"></div>
+
 **Play and Watch**
 - Watch our game demo here: [YouTube Demo](https://www.youtube.com/watch?v=bRt4Dj-3v-0&ab_channel=Nobyy)
 - Play 'Dream Flip' on our Itch.io page: [Play Dream Flip](https://sephye.itch.io/dream-flip)
-</p>
+<
 
 **Testing Insights**  
 During the final playthrough session in our class, where we all had the opportunity to play each other's games, an interesting observation emerged. None of my classmates were able to beat 'Dream Flip', possibly due to its challenging design, which I was more familiar with as the developer. This initially led me to believe that the game might be too difficult. However, when I later shared the game with friends outside of class, they managed to beat it quite easily. This experience underscored the importance of public testing and obtaining feedback from a diverse range of players with varying skill levels. It highlighted how crucial it is to step outside the development bubble to get true insights into a game's accessibility and player experience.
