@@ -34,6 +34,10 @@ Our initial concept for 'Dream Flip' was ambitious: we envisioned a game where p
 
 We began by **storyboarding** to map out the game’s narrative and the player’s journey. This helped us visualize the flow of the game and identify key moments where the gravity-flipping mechanic could be most impactful.
 
+<img class="img-fluid" src="../img/Game4.png">
+<img class="img-fluid" src="../img/Game3.png">
+<img class="img-fluid" src="../img/Game2.png">
+<img class="img-fluid" src="../img/Game1.png">
 
 - Watch our prototype here: [Dream Flip Prototype](https://youtu.be/GzXWMyHe2vo)
 
