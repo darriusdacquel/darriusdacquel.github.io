@@ -34,7 +34,7 @@ Our initial concept for 'Dream Flip' was ambitious: we envisioned a game where p
 
 We began by **storyboarding** to map out the game’s narrative and the player’s journey. This helped us visualize the flow of the game and identify key moments where the gravity-flipping mechanic could be most impactful.
 
-<div style="text-align:center; margin-top:20px;">
+<div style="text-align:left; margin:40px;">
   <img src="../img/Game1.png" alt="Game 1" width="500"/>
 </div>
 
@@ -48,7 +48,7 @@ Next, we developed early **prototypes** to test the game mechanics in action. Th
 
 As part of our hands-on experience, we also focused on **asset creation**, crafting all of our game assets from scratch. This included character sprites, background art, and UI elements, all of which needed to align with the game’s atmosphere and theme.
 
-<div style="text-align:center; margin-top:20px;">
+<div style="text-align:left; margin:40px;">
   <img src="../img/Game3.png" alt="Game 3" width="500"/>
 </div>
 Throughout this process, we continually sought feedback and embraced **iteration** as a way to refine our game. By sharing our game with classmates and receiving constructive criticism, we were able to make continuous improvements. This iterative approach ensured that our final product was both challenging and enjoyable.
