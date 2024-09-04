@@ -50,7 +50,8 @@ As part of our hands-on experience, we also focused on **asset creation**, craft
 
 <img width="400px"
 class="rounded float-start pe-4"
-src="../img/Game3.png">
+src="../img/Game3.png"
+style="margin-bottom: 20px;">
 
 Throughout this process, we continually sought feedback and embraced **iteration** as a way to refine our game. By sharing our game with classmates and receiving constructive criticism, we were able to make continuous improvements. This iterative approach ensured that our final product was both challenging and enjoyable.
 
