@@ -20,7 +20,7 @@ summary: "This group project involves creating a basic Hotel Management System w
 
 The ICS 212 (Program Structure) course in Spring 2023 culminated in a challenging yet rewarding group project where we created a Hotel Management System using C++. This project was my first exposure to collaborative software development and significantly advanced my understanding of object-oriented programming.
 
-In our group, my extroverted nature allowed me to naturally step into a leadership role. With a friendly and inclusive approach, I steered our team dynamics to ensure that everyone's ideas were heard and valued. This was pivotal when we encountered a codebase overhaul by one team member. I led a constructive conversation that allowed us to integrate the useful parts of the new code, while maintaining thr original code and boosting our team morale and project integrity.
+In our group, my extroverted nature allowed me to naturally step into a leadership role. With a friendly and inclusive approach, I steered our team dynamics to ensure that everyone's ideas were heard and valued. This was pivotal when we encountered a codebase overhaul by one team member. I led a constructive conversation that allowed us to integrate the useful parts of the new code, while maintaining the original code and boosting our team morale and project integrity.
 
 My primary responsibilities were in the backend development of our system, focusing on the 'Customer' class, the 'Search Room' function, and the 'Check Out Room' function.
 
