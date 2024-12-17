@@ -16,7 +16,7 @@ labels:
 summary: "A comprehensive platform designed to streamline workflow management, enhance productivity, and support effective team collaboration."
 ---
 
-<img class="img-fluid" src="../img/taskpage.png" alt="ICS Department Logo">
+<img class="img-fluid" src="../img/taskmain.png" alt="ICS Department Logo">
 
 ### Strategic Context
 Ulu Hi-Tech sought to improve the way it managed tasks across a variety of departments and teams. The goal was to replace fragmented, manual tracking methods with a unified solution that could scale alongside the company’s evolving operations. To address this challenge, our team developed a tailored application that reduces inefficiencies, encourages better collaboration, and provides enhanced visibility into ongoing and upcoming work.
