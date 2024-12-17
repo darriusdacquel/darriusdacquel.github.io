@@ -36,4 +36,3 @@ Despite the hurdles we faced, our group ultimately delivered a functional produc
 ### VI. Leadership Lessons
 
 This semester reinforced that leadership is not about simply delegating tasks. It’s about stepping up when others cannot, maintaining focus on the end goal, and finding solutions in the face of obstacles. While the experience was far from smooth, I am proud of what we accomplished and the lessons I learned along the way. I now have a deeper understanding of teamwork, communication, and project delivery, which will undoubtedly serve me well in future endeavors.
-
