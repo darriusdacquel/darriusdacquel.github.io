@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "A Challenging Yet Eye-Opening Semester"
-date: 2024-012-16
+date: 2024-12-16
 published: true
 labels:
   - Teamwork
