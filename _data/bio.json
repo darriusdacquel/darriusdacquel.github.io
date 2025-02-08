@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Darrius Dacquel",
-    "label": "Student",
-    "picture": "https://avatars.githubusercontent.com/u/143847306?v=4",
+    "label": "Aspiring Software Engineer",
+    "picture": "",
     "email": "dacqueld@hawaii.edu",
     "phone": "808-366-1741",
     "website": "https://darriusdacquel.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences with a Minor in Japanese at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I'm currently pursuing a B.S. in Computer Science with a Minor in Japanese at the University of Hawaii, graduating in Spring 2025. My passion lies in solving problems through code, whether it's optimizing algorithms, designing interactive user experiences, or developing creative solutions for research. Outside of academics, I enjoy video editing, weight lifting, cooking, gaming, and practicing piano—it keeps life as balanced as my code!",
     "location": {
       "address": "",
       "postalCode": "",
@@ -27,41 +27,37 @@
       }
     ]
   },
-  "interests": [
-    {
-      "name": "Video Editing"
-    },
-    {
-      "name": "Weight Lifting"
-    },
-    {
-      "name": "Cooking"
-    },
-    {
-      "name": "Video Games"
-    },
-    {
-      "name": "Piano"
-    }
-  ],
+  "interests": [],
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["Python", "C", "C++", "Java", "Javascript", "C#", "HTML"]
+      "keywords": ["Python", "Java", "C", "C++", "C#", "JavaScript", "HTML", "SQL", "Lisp", "Prolog", "Julia", "Pluto", "x86 Assembly (NASM)"]
     },
     {
-      "name": "Software & Tools",
-      "keywords": ["MS Office", "Google Drive", "GitHub", "Maya", "LaTeX", "Overleaf", "Jupyter", "Adobe Creative Cloud (Photoshop, Premiere Pro, Illustrator, InDesign)", "IntelliJ", "Eclipse", "Visual Studio Code", "Underscore"]
+      "name": "Frameworks & Libraries",
+      "keywords": ["React", "Bootstrap", "Meteor", "MongoDB", "Next.js", "Unity"]
     },
     {
-      "name": "Frameworks",
-      "keywords": ["Unity", "React", "Bootstrap", "Meteor", "MongoDB"]
+      "name": "Operating Systems",
+      "keywords": ["macOS", "Linux", "Windows", "Process Management", "Memory Management", "Virtual Memory", "Threading", "Scheduling"]
+    },
+    {
+      "name": "Development Tools",
+      "keywords": ["GitHub", "IntelliJ", "Eclipse", "Visual Studio Code", "Jupyter", "Overleaf", "LaTeX", "Azure"]
+    },
+    {
+      "name": "Software & Design Tools",
+      "keywords": ["Adobe Creative Cloud (Photoshop, Premiere Pro, Illustrator, InDesign)", "Figma", "Adobe XD", "Maya"]
+    },
+    {
+      "name": "System Programming",
+      "keywords": ["GDB", "NASM Assembler", "Bash", "System Calls"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science w/ Minor in Japanese (Expected Spring, 2025)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science w/ Minor in Japanese",
       "studyType": "B.S.",
       "startDate": "2020-08-26",
       "endDate": "2025-05-13"
@@ -72,13 +68,13 @@
       "company": "University of Hawaii at Manoa",
       "position": "Research Assistant",
       "location": "Honolulu, HI",
-      "startDate": "2024-08-01",
+      "startDate": "2024-07-01",
       "endDate": "Present",
-      "summary": "Conducting advanced research in data management and machine learning techniques at the University of Hawaii at Manoa, contributing to academic publications and enhancing the predictive capabilities of research models.",
+      "summary": "Optimizing data and redefining what's possible in research, one HashMap at a time.",
       "highlights": [
-        "Ran scripts for our database to manage and analyze data, improving data accessibility and analysis efficiency.",
-        "Wrote research papers to document findings, leading to contributions in academic journals.",
-        "Applied machine learning techniques for a tight-binding model, enhancing the accuracy and predictive capabilities of our research."
+        "Optimized strain analysis calculations by 99% by replacing a 2D array search O(n) with a HashMap lookup O(1).",
+        "Co-authoring a research paper under the guidance of a professor with 1,000+ citations.",
+        "Applied machine learning techniques for a tight-binding model, enhancing research accuracy."
       ]
     },
     {
@@ -87,53 +83,42 @@
       "website": "https://law.hawaii.edu/20978/",
       "startDate": "2021-10-01",
       "endDate": "Present",
-      "summary": "Leading archive digitization and enhancing legal research access at UH Manoa Law Library. I support law students with their research needs and coordinate library projects, maintaining high standards in administrative tasks.",
+      "summary": "Digitizing archives and organizing events—basically a librarian superhero.",
       "highlights": [
-        "Led the digitization of archives, enhancing the preservation and accessibility of historical documents.",
-        "Contributed to the planning and execution of special projects, events, displays, and workshops in collaboration with library staff.",
-        "Ensured meticulous attention to detail in administrative tasks including data entry, record management, and report generation."
+        "Digitized archival records, improving document preservation and accessibility by 100%.",
+        "Planned and executed special projects, events, displays, and workshops, increasing community engagement."
       ]
+    }
+  ],
+  "relevant_coursework": [
+    "Data Structures",
+    "Algorithms",
+    "Linear Algebra",
+    "Discrete Math",
+    "Program Structure",
+    "Web Development",
+    "Game Design",
+    "Software Engineering",
+    "Database Systems",
+    "AI Programming",
+    "Assembly Language",
+    "Operating Systems"
+  ],
+  "projects": [
+    {
+      "name": "UHT Task Manager",
+      "date": "Fall 2024",
+      "description": "Developed a full-stack task management application for Ulu High Tech (UHT) using React and ASP.NET Core, accelerating project delivery by 40%. Designed RESTful APIs and integrated PostgreSQL for efficient data storage and retrieval."
     },
     {
-      "company": "Jamba Juice",
-      "location": "Honolulu, HI",
-      "position": "Team Member",
-      "startDate": "2021-01-01",
-      "highlights": [
-        "Responsible for handling orders and customer satisfaction utilizing 5 years of customer service experience.",
-        "Applied valuable memory skills in the memorization of many different recipes resulting in accurate orders and faster delivery.",
-        "Coordinated with a group of 6 team members to effectively keep wait times under 3 minutes."
-      ]
+      "name": "Lost and Found Website",
+      "date": "Spring 2024",
+      "description": "Collaborated with a team to develop a comprehensive lost and found management website for UH Manoa using agile methodologies. Enhanced UI/UX with dynamic features, raising user satisfaction scores by 10%."
     },
     {
-      "company": "Sweet Creams",
-      "location": "Honolulu, HI",
-      "position": "Shift Lead",
-      "startDate": "2018-06-01",
-      "endDate": "2019-06-01",
-      "highlights": [
-        "In charge of employee roles and responsibilities for the day.",
-        "Handled counting of the drawers and weekly bank deposits.",
-        "Responsible for orders, and product distribution."
-      ]
-    },
-    {
-      "company": "McDonald’s",
-      "location": "Honolulu, HI",
-      "position": "Employee",
-      "startDate": "2016-04-01",
-      "endDate": "2017-12-01",
-      "highlights": [
-        "Managed restaurant counter where many order issues were resolved resulting in appraisal from both customers and managers.",
-        "Helped with counter inventory, store sanitization, and food assembly."
-      ]
-    },
-    {
-      "company": "Google",
-      "website": "https://www.khon2.com/news/hawaii-high-school-student-needs-your-vote-in-doodle-4-google-contest/",
-      "position": "State Winner",
-      "date": "2018",
-      "highlights": "Came in first place for the State of Hawaii Google Doodle Competition."
+      "name": "Dreamworld Game",
+      "date": "Spring 2024",
+      "description": "Developed a Unity-based game featuring a unique gravity-flipping mechanic, achieving 100% compatibility across devices by deploying it online. Led the coding and debugging process for improved gameplay fluidity."
     }
   ],
   "references": [
