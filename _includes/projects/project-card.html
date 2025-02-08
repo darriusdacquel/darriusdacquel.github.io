@@ -3,17 +3,20 @@
     <div class="col-sm-6 col-md-4">
       <img src="{{ site.baseurl }}/{{ include.page.image }}" height="225px" class="rounded-start">
     </div>
-    <div class="col-sm-6 col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">{{ include.page.title }} <small class="text-muted float-end">{{ include.page.date }}</small></h5>
+    <div class="col-sm-6 col-md-8 d-flex align-items-center"> <!-- Align content to image -->
+      <div class="card-body ps-3"> <!-- Added 'ps-3' to reduce left padding -->
+        <h5 class="card-title">
+          {{ include.page.title }} 
+          <small class="text-muted float-end">{{ include.page.date }}</small>
+        </h5>
         <p class="card-text">{{ include.page.summary }}</p>
         <p>
           {% for label in include.page.labels %}
           <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
           {% endfor %}
         </p>
-        {% if page.projecturl %}
-        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
+        {% if include.page.projecturl %}
+        <a href="{{ include.page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
         {% else %}
         <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
         {% endif %}
