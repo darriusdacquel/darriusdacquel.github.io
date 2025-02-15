@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Darrius Dacquel",
-    "label": "Aspiring Software Engineer",
+    "label": "Software Engineer",
     "picture": "",
-    "email": "dacqueld@hawaii.edu",
+    "email": "darriusd3@gmail.com",
     "phone": "808-366-1741",
     "website": "https://darriusdacquel.github.io/",
     "summary": "I'm currently pursuing a B.S. in Computer Science with a Minor in Japanese at the University of Hawaii, graduating in Spring 2025. My passion lies in solving problems through code, whether it's optimizing algorithms, designing interactive user experiences, or developing creative solutions for research. Outside of academics, I enjoy video editing, weight lifting, cooking, gaming, and practicing piano—it keeps life as balanced as my code!",
@@ -27,6 +27,7 @@
       }
     ]
   },
+  "interests": [],
   "skills": [
     {
       "name": "Programming Languages",
